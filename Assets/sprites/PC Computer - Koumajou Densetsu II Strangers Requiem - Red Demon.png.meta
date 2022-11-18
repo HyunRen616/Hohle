@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: acbaf313fdbbee44b8231fcbffaa4505
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1094
+        width: 148
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79de89670536f824796541ad97a5cc2a
+      internalID: 2038656113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1093
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aceaf8e6c041834a92c4f55ebb50a0a
+      internalID: -25905836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1094
+        width: 163
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739c5ccb2110e0449b49c0894a8759f
+      internalID: 741034355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1095
+        width: 174
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c60893fa011f246b72833ff2392479
+      internalID: 1603246561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 951
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb478b6340667904380735e5776f524b
+      internalID: -810342561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 963
+        width: 134
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925961a4db87d94183b5b43d29a3e6d
+      internalID: -1724813482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 838
+        width: 148
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2957dbe65bd844990f0b3065199b2
+      internalID: -1844950680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 837
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab780b48de6a31c4eacc1022abbc5523
+      internalID: 1549741603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 838
+        width: 163
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21c7ce4f90f764dbcf647827582ed2
+      internalID: -1612132254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 839
+        width: 174
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fadd06168c795142b3547424030db54
+      internalID: -658553503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 695
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de96e3f1e98c874a8b9be9e63d4a550
+      internalID: -1052728395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 707
+        width: 134
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca8bde4a3e2354fa566e1dd12abaf8
+      internalID: -261128752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 581
+        width: 154
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb76c83bde82649814d2c40d2cc678
+      internalID: 352353198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 584
+        width: 149
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1af7c4e1875e489dcf2928ef27665
+      internalID: -578913985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 432
+        width: 163
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38828400dc866854cba2436b26d607f3
+      internalID: 885200292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 432
+        width: 145
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95d119163e1644b846aa82a19656ef
+      internalID: 931453992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 433
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d0b9adc4406c4397b59fffa829e0d
+      internalID: 1749559963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 433
+        width: 125
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb9a5b00a76514e868f8d94d5d0628
+      internalID: -1960159303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d312895a8e5545832897b5f4971ef
+      internalID: 2096000660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_10: -1052728395
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_14: 885200292
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_11: -261128752
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_2: 741034355
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_5: -1724813482
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_17: -1960159303
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_1: -25905836
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_12: 352353198
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_3: 1603246561
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_16: 1749559963
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_7: 1549741603
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_9: -658553503
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_6: -1844950680
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_13: -578913985
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_0: 2038656113
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_4: -810342561
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_8: -1612132254
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_18: 2096000660
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Red Demon_15: 931453992
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

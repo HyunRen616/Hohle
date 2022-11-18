@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7df83072e82e31408ddaac1454571fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - orbCounter: {instanceID: 0}
+  - merman: {fileID: 4593596409400794139, guid: 52ed5ada4d79e4d48a512b9a9aa4f7b0, type: 3}
+  - zombie: {fileID: 9108231657722079144, guid: 80432d36df8ca09489b8bb22a4328d24, type: 3}
+  - player: {instanceID: 0}
+  - newEnemy: {fileID: 8616805879276015340, guid: 886f018d7ae61ec449f749e7c4fa53b8, type: 3}
+  - boss: {fileID: 3349669633963838301, guid: fa84943c24c4cdf479af0e09818e76ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

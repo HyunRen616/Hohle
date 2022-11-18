@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 56f3580f41f4abc4eb2caa35588625de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 244
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba2212f318fbb4dbed4c6820c354a7
+      internalID: 293950648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 244
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac86fec6d3aba84abcd3d209187ae01
+      internalID: 806357347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 244
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b61296c895da48bff1c11350f791a
+      internalID: 1013159278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 244
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44655870f63936d4b85817841932672e
+      internalID: -1423676971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 187
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67be20859d65449a48d7f420b916f0
+      internalID: 45180345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 187
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d86975744fdb849aada162ffccc7e6
+      internalID: 1084601425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 187
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819dc0fd94f8504abfd081f788cb917
+      internalID: 350766944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d19298c9520d438f7e35342fa3358
+      internalID: 1274946925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 188
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2e168473036b44b0eff6a575aad35
+      internalID: -870969539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 187
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab8a0b5310abad4eb03f78620b00934
+      internalID: -1255417754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 187
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f32df88b3eee4190894533a537f52
+      internalID: 555326085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 187
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abd6da855bc38544b689b7b795885ad
+      internalID: 1958963388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 187
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f52208dd6fb58d45946d78bd1611ab3
+      internalID: 155804263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 187
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21904feaf078e34ea5f6669efe7da12
+      internalID: -1522179052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 187
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f576e5a94a05d468bb6f97c367529a
+      internalID: -134991961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e329411760ec4ea5d15ece5ad548d
+      internalID: -23893645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f97e330e5b1c84ca62257af5fd5fef
+      internalID: -1509238655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 130
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050684ec1bde6ae40b4fd05f45f1628a
+      internalID: 1234885037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 130
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99717b991aac84289fc66eb7cd30cc
+      internalID: 1403087090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5375c398cb3bf594d8497dc865182424
+      internalID: 60844674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148250640974761469137ff181c57a26
+      internalID: 1612028283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 130
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dadf6ac0b23a746a958b68c2e4f5f9
+      internalID: 425519492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 130
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165965ed1c8b3046afef9ea2270dc93
+      internalID: 1040310258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 73
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128e14024b855444db983e9c05efa5c1
+      internalID: -1413486648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c16dfe37be414cbd9326bb63c3de0
+      internalID: -654324429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b1e7c006a2fc47b6913ad520d5454
+      internalID: -1850291616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 73
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bd9744e9a1694dbd5c61baffcbecc
+      internalID: 583678911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3080cf81802d674e9101cae8b874c41
+      internalID: 1663892438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4614eb03d64d34a955f9b1cfbbd5ac
+      internalID: 2024961515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 73
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97125b9c8fc128d448bc038ac822693a
+      internalID: 344783509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 73
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa60c84acedc7c41af604279dd755ad
+      internalID: 218728109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 73
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be82d42ea1c424db8db1cab1a27934
+      internalID: -2055484293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1082408634104b8e9bdfd9a4af3d9
+      internalID: -1871478070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 73
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b235c3d199dd6488bdeed54b9dc8aa
+      internalID: -828691371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 73
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c08a2544539742a619bb154a44192
+      internalID: -381250743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 73
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7a22bfeda81b44b2c27eeb6cf3ca7
+      internalID: -1392007147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_36
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 73
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413c318f888d144eb222163819375b8
+      internalID: -1665009942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_37
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 73
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db664779a3bb14e9ae77b1efdec296
+      internalID: 127294165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_38
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 73
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87bdbfea4f670b419b824e2f5eed99e
+      internalID: 267525007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 73
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f6cfab57956647a6751d7ebf93a8d
+      internalID: 1542304994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_40
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eef217468ec30458853a0ad54f6a7e
+      internalID: 667347347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_41
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 73
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b165913d2926b4aa99a5b441cbc682
+      internalID: 1800503784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665017292f3669a41abcc2e9a68f6527
+      internalID: -1917090621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d9ef846775ba439b8e9ecdbc3c2f6
+      internalID: 968541094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff5f158f1cffc4a86296ba15a243e0
+      internalID: -2116436357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf7a4e2a79328b4c9c19fe5f66a921f
+      internalID: 1233802762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b251b4b2530c8a438990e59bf5824f7
+      internalID: 2113197686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_46: 2113197686
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_9: -1255417754
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_44: -2116436357
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_37: 127294165
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_8: -870969539
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_45: 1233802762
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_26: 583678911
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_36: -1665009942
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_12: 155804263
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_11: 1958963388
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_27: 1663892438
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_34: -381250743
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_4: 45180345
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_42: -1917090621
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_39: 1542304994
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_32: -1871478070
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_10: 555326085
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_18: 1403087090
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_30: 218728109
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_22: 1040310258
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_1: 806357347
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_15: -23893645
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_43: 968541094
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_25: -1850291616
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_23: -1413486648
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_3: -1423676971
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_41: 1800503784
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_31: -2055484293
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_17: 1234885037
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_33: -828691371
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_5: 1084601425
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_40: 667347347
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_28: 2024961515
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_29: 344783509
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_24: -654324429
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_35: -1392007147
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_38: 267525007
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_21: 425519492
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_7: 1274946925
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_14: -134991961
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_0: 293950648
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_2: 1013159278
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_6: 350766944
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_13: -1522179052
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_20: 1612028283
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_16: -1509238655
+      Game Boy Advance - Castlevania Aria of Sorrow - Soma Cruz_19: 60844674
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

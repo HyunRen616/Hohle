@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: e574b46342bb40b469b4ba8b02818a23
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1652
+        width: 240
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062cddf0c4dc5ed47b22b94e31f069ee
+      internalID: 163440412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1542
+        width: 245
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c12d155cc417545983ce5645e1e350
+      internalID: -1986446630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1542
+        width: 240
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c42c19128f7b45b8cae95d18b7052
+      internalID: 1326959845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1888
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bacbb7949ad72d419ce25d0a9fb3c90
+      internalID: -495765138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1937
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f9be02049cffc4aa3524adceb291bb
+      internalID: -468913394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1935
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88df5f97eac33f946bc1130af3672d27
+      internalID: -112520217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1905
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814175249f34a3243b6903ffc5709094
+      internalID: -1954189382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1754
+        width: 91
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4fa2c9fa7ea52439a61f19fa117eef
+      internalID: 1426188167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1893
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734f4fd959d30340a6272d6fae48252
+      internalID: 1201415506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_9
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1931
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8caae5b708a13c44956e3969044da72
+      internalID: 716025052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_10
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1754
+        width: 91
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee35dedbb0134d4fb54a35da9a4bd3a
+      internalID: 2076701477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1888
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f97bf64f88b84893ee9cc80da4410
+      internalID: 615069383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1900
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e5ea382f84734684eb16195021464
+      internalID: -751853513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_13
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1914
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb837bc91ad2e54ca166552dc9f2da7
+      internalID: 1708726357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1754
+        width: 91
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246344a0883259b438f4599c756768fa
+      internalID: 1203377346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_15
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1754
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ba694da2a04f4c87d8364db63d618
+      internalID: -1355896285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_16
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1895
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe55eec8595f34089dbb32af7c2445
+      internalID: 286381703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1895
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ea9d0452b7064ca65501bc09105ce
+      internalID: -584955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1896
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec2a2bff8cc23b40922f4b926bb3705
+      internalID: 196004601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1890
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779880a160a62145a35fc2e8f0a3534
+      internalID: 2071855942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1753
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f9960799739746b982160ff5c16cc
+      internalID: 1727509561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1753
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591895fd276b5d741b0d0e6024a34d84
+      internalID: 1212719356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_22
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1754
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282bfb125ca5014289a8292ef9878df
+      internalID: 1026519034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1754
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4ff78e8fc9a249a2a85191c20a293
+      internalID: 1480248868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1542
+        width: 234
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c33b58173be34095452cf726601e6
+      internalID: -1372596883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1620
+        width: 21
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14300025e97e7c54bb1f41268cae08ff
+      internalID: 1493586260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1543
+        width: 240
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac253e6160f25e428dca3e8d5d084df
+      internalID: 688855312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1572
+        width: 5
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790197177fcf2644ab489a573bebf6f1
+      internalID: -796975827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1187
+        width: 432
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3a13ba1f8e554da212d26ddf6a307
+      internalID: 434080113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 869
+        width: 416
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e482f9e023b6504ca540ec9ccc9d97c
+      internalID: 1380536437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 483
+        width: 367
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3543455ae5ad0147b80f134987f8ebf
+      internalID: 574103785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 240
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12455f41f822ec438c979549b3bd357
+      internalID: 2123567115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Kefkas Tower Final Area_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 275
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0208d4a493ba17d4e8e99de076145931
+      internalID: 757966504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_16: 286381703
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_4: -468913394
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_21: 1212719356
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_27: -796975827
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_7: 1426188167
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_22: 1026519034
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_5: -112520217
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_0: 163440412
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_8: 1201415506
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_9: 716025052
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_32: 757966504
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_1: -1986446630
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_26: 688855312
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_25: 1493586260
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_2: 1326959845
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_6: -1954189382
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_12: -751853513
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_23: 1480248868
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_14: 1203377346
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_18: 196004601
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_11: 615069383
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_24: -1372596883
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_31: 2123567115
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_3: -495765138
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_13: 1708726357
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_28: 434080113
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_30: 574103785
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_10: 2076701477
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_15: -1355896285
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_17: -584955089
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_29: 1380536437
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_19: 2071855942
+      SNES - Final Fantasy 6 - Kefkas Tower Final Area_20: 1727509561
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

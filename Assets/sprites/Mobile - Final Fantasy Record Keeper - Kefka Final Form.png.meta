@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 58f27b9be47ae854ca8fcab36c9e8a5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6e445d26300d4185e59e5f1fcd762
+      internalID: -1010685304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031ae357da983f4ca610e9a403c4c88
+      internalID: -2062130746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 245
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905d4d686ef82243afb2d123950143d
+      internalID: -963718514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277af50d4b36ee741aa43ffd1f424b38
+      internalID: 2003289450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 193
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91611f2ed21dfe449934787b74522d96
+      internalID: 721213914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 233
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19c4c431402144cb942bb4e19b4bfb
+      internalID: -1289726110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86d0b23f796914089c84cb5e5889ec
+      internalID: -1768725837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3eb8bc93ddc14b876050e9a5a9a60
+      internalID: 1507942708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 151
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ecd8766d893841901dee8f10e67d8
+      internalID: -1701251795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fd3a2012dae247b5b3689648d0382
+      internalID: -1948821775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bc8f908514a04c982ee9fdb06dc88
+      internalID: 608125330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 188
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a57073d419f3a4d82d9734b5e31351
+      internalID: 1819982509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc0d72075f7084aa0349b03039d8a4
+      internalID: -1420003941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098cb2f70b2d62040bc8caecb7666c68
+      internalID: -1192524565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 126
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d379af9e8d14614da465fd82960f05c
+      internalID: -1165433819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887cf926012e8eb4db15adc4aa962eb3
+      internalID: -65058101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 101
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26835951b114914a8b97316765c7f54
+      internalID: -1132442336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6da1ee1885fe49b8482e3d25df561
+      internalID: 141475294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79df5e1c47b624cb4d3274b3e3e161
+      internalID: -673074148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 115
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e21c346640e24abe89af17184fe4a
+      internalID: -524123174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276e83e470abbc4f81a358ff32292b7
+      internalID: -1830546340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d524b9e46f75c5844b2d6f5938219251
+      internalID: -2073816760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 75
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff400a3e22cec654886e06d0d22b5596
+      internalID: -396330820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499372d99864b5e47ae7b9cfaa86a6bb
+      internalID: 1633434268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 91
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210ea6273bc5c24bbc8096034ecd182
+      internalID: -1911524249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491bd96bb918cfe4fa0831ebc93bd02d
+      internalID: -724673264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab25c49082fad642b2b335ef1dd6398
+      internalID: 353471940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2961907fd77b94698d4fb8ace19ec3
+      internalID: -1274856443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 78
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89057df16b3c3994794532bddf90665d
+      internalID: 1149374928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f3bd0431f00c448b1fb41928d4fac
+      internalID: 1605837886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694cc9aa5a883b488cd0f6ebc20e214
+      internalID: -1593525833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9fccef39e9cc749ae7a03381a36a2d
+      internalID: -1706132254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac208a5ed39c24ba37cc8ba5d7f86d
+      internalID: 1609759846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbab715a1361504fad98b29febd8c8e
+      internalID: 1612262879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c32c9be1333bd479b9929c90ba7088
+      internalID: 138706594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25d2321d43c5c4d9b5ba94201811fd
+      internalID: 1181649125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965e04fa8c0feb4aa9cdc5d805112af
+      internalID: 2046165533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 44
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b453d28619d7b4890cb860605e45f6
+      internalID: 2061082398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Kefka Final Form_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be2f7d8cb505e445a4851349feee02f
+      internalID: 952318886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_23: 1633434268
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_25: -724673264
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_26: 353471940
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_0: -1010685304
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_30: -1593525833
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_24: -1911524249
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_32: 1609759846
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_3: 2003289450
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_9: -1948821775
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_34: 138706594
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_5: -1289726110
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_16: -1132442336
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_19: -524123174
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_14: -1165433819
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_1: -2062130746
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_31: -1706132254
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_2: -963718514
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_13: -1192524565
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_27: -1274856443
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_18: -673074148
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_10: 608125330
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_29: 1605837886
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_37: 2061082398
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_21: -2073816760
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_7: 1507942708
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_36: 2046165533
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_17: 141475294
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_15: -65058101
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_28: 1149374928
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_4: 721213914
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_35: 1181649125
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_11: 1819982509
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_12: -1420003941
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_22: -396330820
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_6: -1768725837
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_20: -1830546340
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_33: 1612262879
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_38: 952318886
+      Mobile - Final Fantasy Record Keeper - Kefka Final Form_8: -1701251795
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
