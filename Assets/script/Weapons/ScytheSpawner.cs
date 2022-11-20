@@ -17,7 +17,7 @@ public class ScytheSpawner : BaseWeapon
     {
         while (true)
         {
-            yield return new WaitForSeconds(5f - (float)level/2);
+            yield return new WaitForSeconds(2f - (float)level/2);
             float angle = Random.Range(0, 360);
             Instantiate(scythe, transform.position, Quaternion.Euler(0, 0, angle));
         }

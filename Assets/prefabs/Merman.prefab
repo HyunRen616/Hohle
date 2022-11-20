@@ -129,11 +129,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: maxHp
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: speed
-      value: 1.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: Magnet
@@ -141,7 +141,7 @@ PrefabInstance:
       objectReference: {fileID: 4681763733552611198, guid: 91f702c476aeaf94b85d1d34c6780af8, type: 3}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: enemyHP
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6760380296792766059, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: speed

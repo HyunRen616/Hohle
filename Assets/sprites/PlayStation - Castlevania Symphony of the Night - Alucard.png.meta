@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 42
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -8596,12 +8596,12 @@ TextureImporter:
       PlayStation - Castlevania Symphony of the Night - Alucard_236: -201123744
       PlayStation - Castlevania Symphony of the Night - Alucard_328: -1809496945
       PlayStation - Castlevania Symphony of the Night - Alucard_64: -644251907
-      PlayStation - Castlevania Symphony of the Night - Alucard_35: -289885900
-      PlayStation - Castlevania Symphony of the Night - Alucard_344: -255679207
       PlayStation - Castlevania Symphony of the Night - Alucard_288: -1980973353
+      PlayStation - Castlevania Symphony of the Night - Alucard_35: -289885900
+      PlayStation - Castlevania Symphony of the Night - Alucard_326: -258222476
       PlayStation - Castlevania Symphony of the Night - Alucard_230: 589011721
       PlayStation - Castlevania Symphony of the Night - Alucard_260: -570577083
-      PlayStation - Castlevania Symphony of the Night - Alucard_326: -258222476
+      PlayStation - Castlevania Symphony of the Night - Alucard_344: -255679207
       PlayStation - Castlevania Symphony of the Night - Alucard_81: 2009837668
       PlayStation - Castlevania Symphony of the Night - Alucard_264: 1721835238
       PlayStation - Castlevania Symphony of the Night - Alucard_317: -538185594
@@ -8637,6 +8637,7 @@ TextureImporter:
       PlayStation - Castlevania Symphony of the Night - Alucard_132: -46542452
       PlayStation - Castlevania Symphony of the Night - Alucard_22: -2083617675
       PlayStation - Castlevania Symphony of the Night - Alucard_125: -423333700
+      PlayStation - Castlevania Symphony of the Night - Alucard_277: 484719024
       PlayStation - Castlevania Symphony of the Night - Alucard_30: -596656291
       PlayStation - Castlevania Symphony of the Night - Alucard_37: 2020334245
       PlayStation - Castlevania Symphony of the Night - Alucard_179: 1644493971
@@ -8645,7 +8646,6 @@ TextureImporter:
       PlayStation - Castlevania Symphony of the Night - Alucard_11: 1176999764
       PlayStation - Castlevania Symphony of the Night - Alucard_120: -1975365636
       PlayStation - Castlevania Symphony of the Night - Alucard_237: -694268187
-      PlayStation - Castlevania Symphony of the Night - Alucard_277: 484719024
       PlayStation - Castlevania Symphony of the Night - Alucard_358: 103727592
       PlayStation - Castlevania Symphony of the Night - Alucard_333: -2016399012
       PlayStation - Castlevania Symphony of the Night - Alucard_268: -1506175564

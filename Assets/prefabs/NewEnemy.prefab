@@ -129,7 +129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: speed
-      value: 1.7
+      value: 1.55
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: Magnet

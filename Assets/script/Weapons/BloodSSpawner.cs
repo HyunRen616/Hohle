@@ -15,7 +15,7 @@ public class BloodSSpawner : BaseWeapon
     {
         while (true)
         {
-            yield return new WaitForSeconds(5f - (float)level / 4);
+            yield return new WaitForSeconds(2f - (float)level / 4);
             float angle = Random.Range(0, 360);
             Instantiate(scythe, transform.position, Quaternion.Euler(0, 0, angle));
         }
