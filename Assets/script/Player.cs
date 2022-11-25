@@ -45,7 +45,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         material = spriteRenderer.material;
-        weapons[0].LevelUp();
+        //weapons[0].LevelUp();
     }
 
     internal void healUp(int TypeOfHeal)
@@ -184,10 +184,12 @@ public class Player : MonoBehaviour
         if (inputX > 0)
         {
             scaleX = -1;
+           
         }
         else if (inputX < 0)
         {
             scaleX = 1;
+          
         }
         else if (inputX == 0)
         {
@@ -201,5 +203,5 @@ public class Player : MonoBehaviour
         animator.SetBool("IsRunning", IsRunning);
 
 
-    }
+    } 
 }

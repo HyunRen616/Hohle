@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
         {
             timerText.text = "0" + minutes.ToString() + ":" + seconds.ToString();
         }
-        orbCounter.text = TitleManager.saveData.orbCount.ToString();
+        //orbCounter.text = TitleManager.saveData.orbCount.ToString();
         score.text = scoreValue.ToString();
 
         

@@ -7,8 +7,8 @@ using TMPro;
 
 public class PlayerCamera : MonoBehaviour
 {
-    [SerializeField] public Transform target;
-
+    public Transform target;
+    GameObject playerS;
     Player player;
     Volume volume;
     Vignette vignette;
@@ -19,7 +19,9 @@ public class PlayerCamera : MonoBehaviour
 
     private void Start()
     {
-        player = target.GetComponent<Player>();
+        playerS = GameObject.FindGameObjectWithTag("Player");
+        target = playerS.GetComponent<Transform>();
+        player = playerS.GetComponent<Player>();
         volume = GetComponent<Volume>();
         volume.profile.TryGet(out vignette);
         volume.profile.TryGet(out depthOfField);
