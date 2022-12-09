@@ -5,10 +5,18 @@ using UnityEngine.UI;
 
 public class PlayerHPBar : MonoBehaviour
 {
-    [SerializeField] Player player;
+    
+    private GameObject gameObjectPlayer;
+    private Player player;
     [SerializeField] Image foreground;
 
     // Update is called once per frame
+
+    void Start()
+    {
+        gameObjectPlayer = GameObject.FindGameObjectWithTag("Player");
+        player = gameObjectPlayer.GetComponent<Player>();
+    }
     void Update()
     {
         float hpRatio = (float)player.playerHP / player.maxHp;

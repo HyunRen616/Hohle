@@ -5,8 +5,15 @@ using UnityEngine.UI;
 
 public class ExpBar : MonoBehaviour
 {
+    private GameObject gameObjectPlayer;
     [SerializeField] Player player; 
     [SerializeField] Image foreground;
+
+    void Start()
+    {
+        gameObjectPlayer = GameObject.FindGameObjectWithTag("Player");
+        player = gameObjectPlayer.GetComponent<Player>();
+    }
 
     private void Update()
     {

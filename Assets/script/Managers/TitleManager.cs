@@ -11,6 +11,7 @@ public class TitleManager : MonoBehaviour
 {
     public static SaveData saveData;
     public GameObject menu;
+    public GameObject menu2;
 
     string SavePath => Path.Combine(Application.persistentDataPath, "save.data"); 
     private void Awake() 
@@ -77,6 +78,11 @@ public class TitleManager : MonoBehaviour
 
     }
 
+    public void OnCharacterSelectionClick()
+    {
+        menu2.SetActive(true);
+    }
+
     public void OnQuitButtonClick()
     {
         
@@ -93,6 +99,20 @@ public class TitleManager : MonoBehaviour
     }
 
 
+    public void OnCharacter1Click()
+    {
+        saveData.IsWhiteUnlocked = true;
+        saveData.IsBlackUnlocked = false;
+        menu2.SetActive(false);
+    }
+
+    public void OnCharacter2Click()
+    {
+        saveData.IsWhiteUnlocked = false;
+        saveData.IsBlackUnlocked = true;
+        menu2.SetActive(false);
+
+    }
 
     public void OnUpgrade1Click()
     {

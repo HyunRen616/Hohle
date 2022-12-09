@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5000c544fd7f1ee49a1e2603a1f55b51
+guid: 96e1bcc481fb6db4a827fbd963d05c89
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 22_0
+      name: PC Computer - RPG Maker VX - Attack 2_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 4
-        width: 28
-        height: 15
+        x: 66
+        y: 253
+        width: 63
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64afe99e6c8bb8241b3bc6f0f6a242a6
-      internalID: -1660905814
+      spriteID: 0b581568b40fde64c855949381e1eda8
+      internalID: -919007409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_1
+      name: PC Computer - RPG Maker VX - Attack 2_1
       rect:
         serializedVersion: 2
-        x: 34
-        y: 4
-        width: 28
-        height: 15
+        x: 219
+        y: 214
+        width: 138
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be4c38b7446b4464092853d85373aa44
-      internalID: -686904186
+      spriteID: 6cbd25a9b3aaaed418bec25a1dc9e3fe
+      internalID: 663585057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_2
+      name: PC Computer - RPG Maker VX - Attack 2_2
       rect:
         serializedVersion: 2
-        x: 68
-        y: 4
-        width: 28
-        height: 15
+        x: 410
+        y: 221
+        width: 136
+        height: 138
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7bde2c6040882948b48c6f4acbc6d7f
-      internalID: -169463547
+      spriteID: fb049b7c45bbb6043a4dd6e603805338
+      internalID: -162908408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_4
+      name: PC Computer - RPG Maker VX - Attack 2_3
       rect:
         serializedVersion: 2
-        x: 102
-        y: 4
-        width: 28
-        height: 15
+        x: 602
+        y: 220
+        width: 138
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 936711e4880a1cf47aeb77e03fa59f19
-      internalID: -1591630683
+      spriteID: 14fbcc825d751c240a63801af955f833
+      internalID: -678594777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_5
+      name: PC Computer - RPG Maker VX - Attack 2_4
       rect:
         serializedVersion: 2
-        x: 132
-        y: 4
-        width: 28
-        height: 15
+        x: 799
+        y: 218
+        width: 131
+        height: 137
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cec51bf5c70e90340948d570ca8143a0
-      internalID: -1708186756
+      spriteID: de4847af07b5aaf49881ab6aa68b2adf
+      internalID: 542973142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_6
+      name: PC Computer - RPG Maker VX - Attack 2_5
       rect:
         serializedVersion: 2
-        x: 164
-        y: 4
-        width: 28
-        height: 15
+        x: 28
+        y: 17
+        width: 141
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e129ce3cb57f59044a3ed90f28c47f71
-      internalID: 531411579
+      spriteID: 255e2b15d769e11488ce5c963e5bc524
+      internalID: 1237816420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_7
+      name: PC Computer - RPG Maker VX - Attack 2_6
       rect:
         serializedVersion: 2
-        x: 194
-        y: 4
-        width: 28
-        height: 15
+        x: 214
+        y: 24
+        width: 141
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 716bd3a6cc3481a40a45ef9896639643
-      internalID: 2140103862
+      spriteID: ab20b05ccd304514385e75fa0d04c988
+      internalID: 833482241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22_8
+      name: PC Computer - RPG Maker VX - Attack 2_7
       rect:
         serializedVersion: 2
-        x: 226
-        y: 4
-        width: 26
-        height: 15
+        x: 406
+        y: 100
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,8 +277,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 167402049cee3354a995f709d9f0f527
-      internalID: 57190635
+      spriteID: 9d335d42cbf62594e8bb843c8f00efc2
+      internalID: 85011351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX - Attack 2_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 28
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f825f875a834a74c8a594d363aa03cf
+      internalID: -60133055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX - Attack 2_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 80
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0579e2d956de648b21d59f1077460e
+      internalID: 636394853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX - Attack 2_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 23
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e91c4742da3c408404120feac9305
+      internalID: 606496856
       vertices: []
       indices: 
       edges: []
@@ -294,16 +357,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      22_4: -1591630683
-      22_8: 57190635
-      22_5: -1708186756
-      22_0: -1660905814
-      22_3: -1714874062
-      22_9: -445602555
-      22_6: 531411579
-      22_7: 2140103862
-      22_2: -169463547
-      22_1: -686904186
+      PC Computer - RPG Maker VX - Attack 2_6: 833482241
+      PC Computer - RPG Maker VX - Attack 2_8: -60133055
+      PC Computer - RPG Maker VX - Attack 2_3: -678594777
+      PC Computer - RPG Maker VX - Attack 2_1: 663585057
+      PC Computer - RPG Maker VX - Attack 2_2: -162908408
+      PC Computer - RPG Maker VX - Attack 2_4: 542973142
+      PC Computer - RPG Maker VX - Attack 2_0: -919007409
+      PC Computer - RPG Maker VX - Attack 2_10: 606496856
+      PC Computer - RPG Maker VX - Attack 2_7: 85011351
+      PC Computer - RPG Maker VX - Attack 2_5: 1237816420
+      PC Computer - RPG Maker VX - Attack 2_9: 636394853
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

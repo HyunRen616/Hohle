@@ -43,14 +43,14 @@ public class Giant : Enemy
             case GiantState.Chasing:
                 base.Update();
                 float distance = Vector3.Distance(transform.position, player.transform.position);
-                animator.SetBool("isWalking", true);
+                animator.SetBool("IsWalking", true);
                 if (distance < 5f)
                 {
                     giantState = GiantState.Attacking;
                 }
                 break;
             case GiantState.Attacking:
-                animator.SetBool("isWalking", false);
+                animator.SetBool("IsWalking", false);
                 animator.SetTrigger("Attack");
                 giantState = GiantState.Idle;
                 StartCoroutine(SpawnKnife());

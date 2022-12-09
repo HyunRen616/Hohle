@@ -16,12 +16,17 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject newEnemy;
     [SerializeField] GameObject boss;
 
+    [SerializeField] GameObject player1;
+    [SerializeField] GameObject player2;
+
+
     [SerializeField] AudioSource audioSource;
     [SerializeField] AudioSource audioSource2;
 
     public static bool IsAudio = false;
     public static bool IsAudio2 = false;
     public static int scoreValue = 0;
+
 
     private void Update()
     {
@@ -61,6 +66,15 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
+        if (TitleManager.saveData.IsWhiteUnlocked == true)
+        {
+            player1.SetActive(true);
+        }
+
+        else if(TitleManager.saveData.IsBlackUnlocked == true)
+        {
+            player2.SetActive(true);
+        }
         StartCoroutine(SpawnEnemyCoroutine());
     }
     private IEnumerator SpawnEnemyCoroutine()

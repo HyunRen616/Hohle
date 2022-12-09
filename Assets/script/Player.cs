@@ -36,7 +36,7 @@ public class Player : MonoBehaviour
 
     public float GetHpRatio() 
     { 
-        return playerHP / maxHp; 
+        return (float)playerHP / maxHp; 
     }
 
     void Start()

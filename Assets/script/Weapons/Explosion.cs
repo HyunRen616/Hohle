@@ -2,13 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireBallp2 : BaseWeapon
+public class Explosion : BaseWeapon
 {
-    void Update()
+    void Start()
     {
-        //transform.Rotate(0, 0, 12);
-        transform.position -= transform.right * 5 * Time.deltaTime; ;
+        StartCoroutine(AutoDestruction());
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Enemy enemy = collision.gameObject.GetComponent<Enemy>();
@@ -21,7 +21,12 @@ public class FireBallp2 : BaseWeapon
         {
             boss.Damage(damage);
         }
-        //Destroy(gameObject);
+    }
+
+    IEnumerator AutoDestruction()
+    {
+        yield return new WaitForSeconds(1.75f);
+        Destroy(gameObject);
 
     }
 

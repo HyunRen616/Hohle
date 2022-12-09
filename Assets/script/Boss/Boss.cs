@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class Boss : MonoBehaviour
 {
@@ -46,14 +47,25 @@ public class Boss : MonoBehaviour
 
     IEnumerator BossCameraCoroutine()
     {
-        Time.timeScale = 0;
+        //Time.timeScale = 0;
 
-        Camera.main.GetComponent<PlayerCamera>().target = transform;
-        Camera.main.orthographicSize = 4;
+        //Camera.main.GetComponent<PlayerCamera>().target = transform;
+        //Camera.main.orthographicSize = 4;
+        float playerX = transform.position.x;
+        float playerY = transform.position.y;
+        float cameraZ = transform.position.z;
+        var targetPosition = new Vector3(playerX, playerY, cameraZ);
+        Camera.main.GetComponent<PlayerCamera>().transform.position = targetPosition;
         yield return new WaitForSecondsRealtime(5f);
 
-        Camera.main.GetComponent<PlayerCamera>().target = player.transform;
-        Camera.main.orthographicSize = 4;
+        //Camera.main.GetComponent<PlayerCamera>().target = player.transform;
+        //Camera.main.orthographicSize = 4;
+
+        float playerX2 = player.transform.position.x;
+        float playerY2 = player.transform.position.y;
+        float cameraZ2 = transform.position.z;
+        var targetPosition2 = new Vector3(playerX2, playerY2, cameraZ2);
+        Camera.main.GetComponent<PlayerCamera>().transform.position = targetPosition2;
         yield return new WaitForSecondsRealtime(2f);
 
         Time.timeScale = 1;

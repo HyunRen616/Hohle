@@ -1,16 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Numerics;
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
-using Quaternion = UnityEngine.Quaternion;
-using Vector3 = UnityEngine.Vector3;
 
-public class FBP2Spawner : BaseWeapon
+public class ExplosionSpawner : BaseWeapon
 {
-
-    [SerializeField] GameObject fireBall;
     [SerializeField] GameObject playerAngle;
+    [SerializeField] GameObject explosion;
     [SerializeField] SimpleObjectPool pool;
 
     // Start is called before the first frame update
@@ -25,9 +20,11 @@ public class FBP2Spawner : BaseWeapon
 
         while (true)
         {
-            yield return new WaitForSeconds(2f - (float)level / 2);
-            float angle = playerAngle.transform.localScale.x;
-            Instantiate(fireBall, transform.position, Quaternion.Euler(0, 0 ,90 - (90 * angle)));
+            yield return new WaitForSeconds(2.5f - (float)level / 2);
+            Vector3 spawnPosition = Random.insideUnitCircle.normalized * 5;
+            spawnPosition += playerAngle.transform.position;
+            float angle = Random.Range(0, 360);
+            Instantiate(explosion, spawnPosition, Quaternion.identity);
         }
     }
 }

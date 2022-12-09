@@ -11,4 +11,6 @@ public class SaveData
     public int deathCount;
     public bool Upgrade1 = false;
     public bool Upgrade2 = false;
+    public bool IsWhiteUnlocked;
+    public bool IsBlackUnlocked;
 }

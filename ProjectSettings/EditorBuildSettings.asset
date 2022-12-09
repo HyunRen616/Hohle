@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Retry.unity
     guid: a06be06d482c9c34cafd5ea4c1acb153
+  - enabled: 1
+    path: Assets/Scenes/GameLevel2.unity
+    guid: a83c42a2cfb6b764789e617d27ff2082
   m_configObjects: {}
