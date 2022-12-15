@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8485314535390498457}
   - component: {fileID: 8576565973578579284}
   - component: {fileID: 992342468500298000}
-  - component: {fileID: 7860273925136166230}
+  - component: {fileID: 6172241348977210158}
   m_Layer: 5
   m_Name: BossHPBar
   m_TagString: Untagged
@@ -78,7 +78,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &7860273925136166230
+--- !u!114 &6172241348977210158
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -87,10 +87,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 180882051364168273}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4eacdb5b84b2ac14c9301337fd38353f, type: 3}
+  m_Script: {fileID: 11500000, guid: 96bf07556e9f236499cfe9e950171117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  boss: {fileID: 6641491506299889975}
   foreground: {fileID: 8556611141482725821}
 --- !u!1 &3349669633963838301
 GameObject:
@@ -216,14 +216,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc658b09a9403f4498563ef8475cb76c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  IsBoss: 0
   crystal: {fileID: 681348023763194947, guid: b94bcef5db04d2b42b702f548a0853d9, type: 3}
   magnet: {fileID: 0}
   orb: {fileID: 6513583438155954372, guid: 928339896267e81488f2e1392dd86c51, type: 3}
+  chalise: {fileID: 0}
   font: {fileID: 8456842552193970362, guid: c9c7a6372dcc44049a64702994873f1b, type: 3}
   speed: 2.2
-  bossHP: 10
+  enemyHP: 10
   maxHp: 10
+  pool: {fileID: 6356970923949796216, guid: 73089ba8bc711b845ab5a44b68166ab7, type: 3}
   isTrack: 1
+  bossHP: 10
   fireBall: {fileID: 6023270253794532136, guid: a9c039094ab5af04ba99829bf3c229b0, type: 3}
 --- !u!58 &2737141008072433993
 CircleCollider2D:

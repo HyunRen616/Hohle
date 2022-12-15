@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.Rendering;
 using TMPro;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class PlayerCamera : MonoBehaviour
 {
@@ -35,10 +34,19 @@ public class PlayerCamera : MonoBehaviour
         //}
         //target = playerS.GetComponent<Transform>();
         //player = playerS.GetComponent<Player>();
+
         volume = GetComponent<Volume>();
         volume.profile.TryGet(out vignette);
         volume.profile.TryGet(out depthOfField);
         volume.profile.TryGet(out grain);
+        if (TitleManager.saveData.postProcessing == true)
+        {
+            this.volume.enabled = true;
+        }
+        else if (TitleManager.saveData.postProcessing == false)
+        {
+            this.volume.enabled = false;
+        }
     }
     private void Update() 
     {

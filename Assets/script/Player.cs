@@ -135,6 +135,14 @@ public class Player : MonoBehaviour
             playerHP -= 1;
             if (playerHP <= 0)
             {
+                TitleManager.saveData.IsLevel1 = true;
+                TitleManager.saveData.IsLevel2 = false;
+                TitleManager.saveData.levelweapon1 = 1;
+                TitleManager.saveData.levelweapon2 = 0;
+                TitleManager.saveData.levelweapon3 = 0;
+                TitleManager.saveData.levelweapon4 = 0;
+                TitleManager.saveData.levelweapon5 = 0;
+                TitleManager.saveData.levelweapon6 = 0;
                 SceneManager.LoadScene("Retry");
                 Destroy(gameObject);
                 return true;

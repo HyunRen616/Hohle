@@ -124,6 +124,10 @@ PrefabInstance:
       value: Zombie
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
+      propertyPath: pool
+      value: 
+      objectReference: {fileID: 3983994832814233311, guid: 9874f0e487a7d2c4ba6050d584252ef9, type: 3}
+    - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: maxHp
       value: 4
       objectReference: {fileID: 0}

@@ -7,15 +7,16 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     [SerializeField] bool IsBoss;
-    public GameObject player;
-    [SerializeField] GameObject crystal;
-    [SerializeField] GameObject magnet;
-    [SerializeField] GameObject orb;
-    [SerializeField] GameObject chalise;
-    [SerializeField] GameObject font;
-    [SerializeField] float speed = 1f;
+    protected GameObject player;
+    [SerializeField] protected GameObject crystal;
+    [SerializeField] protected GameObject magnet;
+    [SerializeField] protected GameObject orb;
+    [SerializeField] protected GameObject chalise;
+    [SerializeField] protected GameObject font;
+    [SerializeField] protected float speed = 1f;
     public int enemyHP = 1;
     public int maxHp = 1;
+    [SerializeField]SimpleObjectPool pool;
 
     SpriteRenderer spriteRenderer;
 
@@ -61,12 +62,12 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    internal void SpeedUp()
+    public virtual void SpeedUp()
     {
         speed+= 0.1f;
     }
 
-    internal void HealthUp()
+    public virtual void HealthUp()
     {
         maxHp ++;
         enemyHP++;
@@ -106,7 +107,7 @@ public class Enemy : MonoBehaviour
                     Instantiate(magnet, transform.position + new Vector3(0, -1, 0), Quaternion.identity);
                 }
 
-                Destroy(gameObject);
+                pool.ReturnObject(gameObject);
             }
         }
 

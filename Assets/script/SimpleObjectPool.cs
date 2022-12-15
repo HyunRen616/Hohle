@@ -5,21 +5,48 @@ using UnityEngine;
 public class SimpleObjectPool : MonoBehaviour
 {
     [SerializeField] GameObject objectPrefab;
+    [SerializeField] int poolSisze;
+    [SerializeField] bool expandable;
     int objectIndex;
 
-    List<GameObject> pooledObjects = new List<GameObject>();
+    List<GameObject> usedObjects = new List<GameObject>();
+    List<GameObject> freeObjects = new List<GameObject>();
 
     private void Awake()
     {
-        for (int i = 0; i < 1000; i++)
+        for (int i = 0; i < poolSisze; i++)
         {
-            pooledObjects.Add(Instantiate(objectPrefab));
+            GenerateNewObjects();
         }
     }
 
-    public GameObject Get()
+    public GameObject GetObject()
     {
-        objectIndex %= pooledObjects.Count;
-        return pooledObjects[objectIndex];
+        int totalFree = freeObjects.Count;
+        if (totalFree == 0 && !expandable) return null;
+        else if (totalFree == 0)
+        {
+            GenerateNewObjects();
+        }
+
+        GameObject obj = freeObjects[totalFree - 1];
+        freeObjects.RemoveAt(totalFree - 1);
+        usedObjects.Add(obj);
+        return obj;
+    }
+
+    public void ReturnObject(GameObject obj)
+    {
+        obj.SetActive(false);
+        usedObjects.Remove(obj);
+        freeObjects.Add(obj);
+    }
+
+    private void GenerateNewObjects()
+    {
+        GameObject obj = Instantiate(objectPrefab);
+        obj.transform.parent = transform;
+        obj.SetActive(false);
+        freeObjects.Add(obj);
     }
 }

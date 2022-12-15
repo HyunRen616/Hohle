@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6023270253794532134}
   - component: {fileID: 6023270253794532137}
   - component: {fileID: 8781353368744156991}
+  - component: {fileID: 3712621688636418480}
   m_Layer: 0
   m_Name: FireBallBoss
   m_TagString: Untagged
@@ -77,7 +78,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -1660905814, guid: 5000c544fd7f1ee49a1e2603a1f55b51, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.875, y: 0.46875}
@@ -119,6 +120,18 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.2924136, y: 0}
+  m_Offset: {x: 0.23423529, y: 0}
   serializedVersion: 2
-  m_Radius: 0.29091966
+  m_Radius: 0.20085478
+--- !u!114 &3712621688636418480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6023270253794532136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeb4fa99de6b38b40966435c9d96fd4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

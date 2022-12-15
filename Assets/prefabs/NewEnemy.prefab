@@ -124,6 +124,10 @@ PrefabInstance:
       value: NewEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
+      propertyPath: pool
+      value: 
+      objectReference: {fileID: 3862650382907560619, guid: 80b4c5668a043924cbc1b20157578361, type: 3}
+    - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: maxHp
       value: 3
       objectReference: {fileID: 0}

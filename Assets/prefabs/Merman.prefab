@@ -128,6 +128,10 @@ PrefabInstance:
       value: Merman
       objectReference: {fileID: 0}
     - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
+      propertyPath: pool
+      value: 
+      objectReference: {fileID: 6414675375021666105, guid: 203c7f4ebdc97fe4a844b88ee4cba5a0, type: 3}
+    - target: {fileID: 6047859252596999811, guid: d8646d5c62cd1fb4fbef694fed5b77ae, type: 3}
       propertyPath: maxHp
       value: 3
       objectReference: {fileID: 0}

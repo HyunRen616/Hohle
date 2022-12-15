@@ -14,6 +14,40 @@ public class SecondGameMenu : MonoBehaviour
     private int levelHealth = 0;
     private int levelSpeed = 0;
 
+    private void Start()
+    {
+        for (int i = 0; i < TitleManager.saveData.levelweapon1; i++)
+        {
+            weapons[0].LevelUp();
+            weapons[0].DamageUp();
+        }
+        for (int i = 0; i < TitleManager.saveData.levelweapon2; i++)
+        {
+            weapons[1].LevelUp();
+            weapons[1].DamageUp();
+        }
+        for (int i = 0; i < TitleManager.saveData.levelweapon3; i++)
+        {
+            weapons[2].LevelUp();
+            weapons[2].DamageUp();
+        }
+        for (int i = 0; i < TitleManager.saveData.levelweapon4; i++)
+        {
+            weapons[3].LevelUp();
+            weapons[3].DamageUp();
+        }
+        for (int i = 0; i < TitleManager.saveData.levelweapon5; i++)
+        {
+            weapons[4].LevelUp();
+            weapons[4].DamageUp();
+        }
+        for (int i = 0; i < TitleManager.saveData.levelweapon6; i++)
+        {
+            weapons[5].LevelUp();
+            weapons[5].DamageUp();
+        }
+    }
+
     void Update()
     {
         LevelText[0].text = "Lv. " + weapons[0].level.ToString();
